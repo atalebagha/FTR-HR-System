@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  code: MyString
+  hourly: false
+  weekdays: 1
+  employee_id: 1
+  weeklyhourss: 1
+
+two:
+  name: MyString
+  code: MyString
+  hourly: false
+  weekdays: 1
+  employee_id: 1
+  weeklyhourss: 1
